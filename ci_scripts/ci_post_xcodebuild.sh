@@ -7,4 +7,4 @@
 
 #echo "file structure"
 #ls /
-grep -r "CreateBuildOperation" /
+grep -r "CreateBuildOperation" /Volumes
