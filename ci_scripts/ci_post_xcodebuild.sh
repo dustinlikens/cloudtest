@@ -8,4 +8,5 @@
 #echo "file structure"
 #ls /
 #grep -r "CreateBuildOperation" /Workspace
-cat /Volumes/Task/logs/xcodebuild-archive.log
+#cat /Volumes/Task/logs/xcodebuild-archive.log
+ls -r /Volumes/Task/
