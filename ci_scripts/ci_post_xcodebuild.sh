@@ -6,5 +6,6 @@
 //
 
 #echo "file structure"
-ls /
-grep -r "CreateBuildOperation" /Workspace
+#ls /
+#grep -r "CreateBuildOperation" /Workspace
+cat /Volumes/Task/logs/xcodebuild-archive.log
