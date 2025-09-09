@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		EF83C5812E70A6C40066FE84 /* cloudtest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cloudtest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF83C59C2E70ABFE0066FE84 /* ci_post_xcodebuild.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ci_post_xcodebuild.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +46,7 @@
 		EF83C5782E70A6C40066FE84 = {
 			isa = PBXGroup;
 			children = (
+				EF83C59B2E70ABF70066FE84 /* ci_scripts */,
 				EF83C5832E70A6C40066FE84 /* cloudtest */,
 				EF83C5822E70A6C40066FE84 /* Products */,
 			);
@@ -56,6 +58,14 @@
 				EF83C5812E70A6C40066FE84 /* cloudtest.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		EF83C59B2E70ABF70066FE84 /* ci_scripts */ = {
+			isa = PBXGroup;
+			children = (
+				EF83C59C2E70ABFE0066FE84 /* ci_post_xcodebuild.sh */,
+			);
+			path = ci_scripts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
