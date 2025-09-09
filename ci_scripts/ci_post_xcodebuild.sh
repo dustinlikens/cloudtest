@@ -6,5 +6,5 @@
 //
 
 #echo "file structure"
-#ls /
-grep -r "CreateBuildOperation" /Volumes
+ls /
+grep -r "CreateBuildOperation" /Workspace
