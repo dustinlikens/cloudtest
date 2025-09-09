@@ -5,4 +5,6 @@
 //  Created by Dustin Likens on 9/9/25.
 //
 
-grep -r "Resolve Dependency Graph"
+#grep -r "Resolve Dependency Graph"
+echo "Structure"
+ls 
