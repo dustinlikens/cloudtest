@@ -10,4 +10,5 @@
 #grep -r "CreateBuildOperation" /Workspace
 #cat /Volumes/Task/logs/xcodebuild-archive.log
 #ls -r /Volumes/Task/
-find / -name "xcodebuild-archive.log"
+#find / -name "xcodebuild-archive.log"
+cat /Volumes/workspace/ci/*/o.out
