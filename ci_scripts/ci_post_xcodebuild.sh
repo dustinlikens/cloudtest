@@ -6,4 +6,4 @@
 //
 
 echo "file structure"
-ls
+ls /
