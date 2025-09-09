@@ -7,4 +7,4 @@
 
 #echo "file structure"
 #ls /
-grep -r "Resolve Dependency" /
+sudo grep -r "Resolve Dependency" /
