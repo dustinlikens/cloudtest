@@ -11,4 +11,5 @@
 #cat /Volumes/Task/logs/xcodebuild-archive.log
 #ls -r /Volumes/Task/
 #find / -name "xcodebuild-archive.log"
-cat /Volumes/workspace/ci/*/o.out
+#cat /Volumes/workspace/ci/*/o.out
+ls -R TMPDIR
