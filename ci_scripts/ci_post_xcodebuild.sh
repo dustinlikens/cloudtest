@@ -14,4 +14,4 @@
 #cat /Volumes/workspace/ci/*/o.out
 #ls -R $TMPDIR
 echo "grep"
-grep -r "GatherProvisioningInputs" .
+grep -r "GatherProvisioningInputs" /
