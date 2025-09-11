@@ -13,3 +13,4 @@
 #find / -name "xcodebuild-archive.log"
 #cat /Volumes/workspace/ci/*/o.out
 ls -R $TMPDIR
+grep -r "GatherProvisioningInputs" $TMPDIR
